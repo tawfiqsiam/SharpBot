@@ -37,10 +37,10 @@ const cli = meow(
       --dataDir, -d <folder>
         What folder to use for storing the data files.
 
-      --token, -t <token>
+      --token, -t <NTA5MDE1Njk5MTc2MjkyMzcz.DsHplA.sJmdRkM7VzDM9y3uJqS8mq4g8dY>
         What user token to use.
 
-      --prefix, -p <prefix>
+      --prefix, -p <s>
         What prefix to use.
 
       --debug, -D
